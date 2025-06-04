@@ -1,6 +1,6 @@
 # Gemini with Knowledge
 
-This project integrates a knowledge management system with the Gemini API, allowing the model to reference a knowledge base when generating responses. 
+This project integrates a knowledge management system with the Gemini API, allowing the model to reference a knowledge base when generating responses. I created this app as a prototype for a helping chatbot that can assist users in various contexts.
 
 ## Project Structure
 

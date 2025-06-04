@@ -24,12 +24,6 @@ var/
 .installed.cfg
 *.egg
 
-# Embeddings ve index dosyaları (büyük olabilir)
-knowledge/embeddings/*
-knowledge/index/*
-!knowledge/embeddings/.gitkeep
-!knowledge/index/.gitkeep
-
 # IDE ve editor dosyaları
 .idea/
 .vscode/
