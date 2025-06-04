@@ -1,0 +1,169 @@
+This is the content for the file /gemini-with-knowledge/gemini-with-knowledge/knowledge/documents/sample.txt:
+
+**SkyBlock Nedir?**
+SkyBlock, Minecraft oyununda geçen özel bir oyun modudur. Oyuncular, havada yer alan küçük bir adada sınırlı kaynaklarla başlar ve bu adayı büyütüp geliştirmeye çalışır. Amaç, kaynakları verimli kullanarak hayatta kalmak ve mümkün olan en iyi adayı kurmaktır.
+
+**SkyBlock’un Temel Özellikleri:**
+
+* Her oyuncu kendi adasında başlar.
+* Oyuncular, cobblestone üretmek için su ve lav ile jeneratör kurar.
+* Toprak, ağaç, hayvanlar ve diğer kaynaklar dikkatli kullanılmalıdır.
+* Görevler sayesinde oyuncular para veya eşya kazanabilir.
+* Ekonomi sistemi ile oyuncular birbirleriyle ticaret yapabilir.
+* PvE (yaratıklara karşı) ve bazı sunucularda PvP (oyunculara karşı) modlar bulunabilir.
+
+---
+
+**SkyBlockTC Sunucusu Hakkında Bilgi**
+SkyBlockTC, Türk oyuncular için hazırlanmış özel bir SkyBlock sunucusudur.
+Resmi web sitesi: [https://skyblock.tc](https://skyblock.tc)
+Sunucu IP adresi: `play.skyblock.tc`
+
+**Web Sitesinde Bulunan Özellikler:**
+
+* Anasayfa: Genel sunucu tanıtımı, görseller, bağlantılar.
+* Giriş Yap: Minecraft hesabı ile siteye giriş yapılabilir.
+* Profil Sistemi: Oyuncular profillerini, istatistiklerini ve sıralamalarını görebilir.
+* IP Kopyala Butonu: Sunucuya kolay erişim için IP adresi kopyalanabilir.
+* Discord: Oyuncular toplulukla etkileşim kurabilir.
+* Oyuncu Sayacı: Anlık çevrim içi oyuncu sayısı görüntülenebilir.
+
+---
+
+### 🔧 SkyBlockTC Özel Sistemleri
+
+**1. Teslimat Sistemi:**
+Oyuncular, belirli görev türlerine ait eşyaları teslim ederek ödüller kazanabilir ve sıralamada yükselebilir. Teslimat kategorileri:
+
+* Avcılık
+* Madencilik
+* Zanaatkârlık
+* Tarım
+  Bu sistem, aktif oynayan oyuncuların katkısını teşvik eder.
+
+**2. Sezon Sistemi:**
+Sunucu belirli aralıklarla sezona girer. Her sezonda özel içerikler sunulur:
+
+* 2 yeni pet
+* 1 özel ünvan
+* 1 giriş mesajı
+  Oyuncular bu sezon içeriklerine "sezon kasası" ile ulaşabilir.
+
+**3. Yumurta Etkinliği:**
+Her hafta belirli bir gün yapılan "Yumurta Etkinliği", tüm oyuncuların katılabildiği bir yarışma etkinliğidir.
+Etkinlik sonunda elde edilen skorlar sıralamaya etki eder ve ödüller kazandırır.
+
+**4. Sıralama Sistemi:**
+Sunucuda çok sayıda sıralama türü vardır:
+
+* Teslimat sıralaması
+* Etkinlik sıralaması
+* Ada seviyesi sıralaması
+  Sıralamalar, rekabeti artırır ve oyuncuların gelişimini ödüllendirir.
+
+**5. Gelişmiş Profil Sistemi (Web):**
+Oyuncuların adaları, görev durumları, istatistikleri ve sıralamaları web sitesi üzerinden görüntülenebilir. Bu sistem, Minecraft dışında da oyuncuların ilerlemesini takip etmelerine olanak tanır.
+
+---
+
+### 🤖 Yapay Zekâ İçin Kullanım Örnekleri:
+
+* Oyuncular “Görevlerim neler?” diye sorduğunda aktif görev kategorileri sunulabilir.
+* Oyuncunun ada seviyesi, toplam teslimatı veya sezon sıralaması gibi bilgiler web verisine dayalı olarak yanıtlanabilir.
+* “Sunucuda kaç kişi online?” veya “Yumurta etkinliği ne zaman başlıyor?” gibi sorulara otomatik yanıt verilebilir.
+* SkyBlock kuralları ve temel oyun mekanikleri hakkında yeni başlayanlara rehberlik sağlanabilir.
+
+
+--------
+
+
+**SİTE VE ARAYÜZ GÜNCELLEMELERİ! ** 🖥️
+
+**Web sitemiz tamamen yenilendi! **_Modern arayüzüyle çok daha hızlı, şık ve kullanıcı dostu_
+Artık web sitesi üzerinden **AFK satın alabilirsiniz**. Alınan AFK'lar TAB'da çirkin bir görüntü yaratmayacak.
+_Belirlenen paketleri inceleyebilirsiniz._ VDS ve benzeri şeyler ile uğraşmanız gerekmeyecek.
+_Anlık olarak sohbeti kontrol edebilir, istediğiniz mesajı yazabilir ve bağlantısı aktif edip, devredışı bırakabilirsiniz._
+
+# SAVAŞ & DÜELLO GÜNCELLEMELERİ!  ⚔️ 
+
+_Artık oyuncular bire bir düellolara katılabilir! Oyuncular kendi belirlediği miktarlar ile başka oyunculara meydan okuyabilir._
+5 adet birbirinden güzel, düello mapleri de sunucuya eklendi. 
+Spawn'dan savaş alanlarına uçuş eklendi. 
+Uçuş alanlarından **boss alanlarına** uçarak erişim sağlayabilirsiniz. 
+_Yeni güçlü bosslar oyuna eklendi. Onları yalnız ya da arkadaşlarınızla birlikte avlayarak özel ödüller kazanabilirsiniz._
+Bosslara nazaran **küçük mini savaşçılar** da oyuna eklendi. Onların kafalarını düşürerek güzel bir ticaret yapabilir ve bossları doğurabilirsiniz.
+
+# SPAWNER MEKANİĞİ GÜNCELLEMESİ! <:spawner:915541112582701106> 
+
+_Spawner’lar artık zamanla aşınır ve kullanılabilitesi düşer._ Yani oyuncular artık kullanmadığı spawnerlara AFK yerleştirerek sonsuza kadar spawnerları kullanamayacak. Bu spawnerları kullanmak spawnerları **Spawner Tamir Kitabı** ile tamir etmeleri gerekiyor.
+Her tamirden sonra spawner **2x **olacak şekilde **24** saatliğine çalışıyor. _Ardından tekrar aşınmaya başlıyor._
+
+_Spawner'a sağ tıklayarak **aşınma oranı**, **koordinat** gibi özelliklerini görüntüleyebilirsiniz._
+
+# REPORT GÜNCELLEMESİ!  📋 
+
+Artık sohbette _küfürleşme ve sohbete uymayan_ mesajlaşma gibi durumlarda, rehber aramayacaksınız. 
+Bir yapay zeka tarafından mesajlar kontrol edilebilecek.
+_**/report isim** yazarak oyuncuları **reportlayabilir** ve **cezalandırılmalarını** sağlayabilirsiniz._
+
+# YENİ SIRALAMA GÜNCELLEMESİ! <:blob_trident:885836192803852298> 
+
+_Sunucular arası senkronize çalışan gelişmiş sıralama sistemi yayında!_
+**Artık oyuncular şu alanlarda rekabet edebilecek:**
+
+> ⛏️ Maden kırma
+> 🎣 Balık yakalama
+> 🧪 Tecrübe kazanma
+> ⌛ Oynama süresi
+> 🧱 Blok yerleştirme
+> 🐲 Mob öldürme
+> 🗳️ Oy verme
+> 🛒 Marketten alışveriş
+
+# TİCARİ GÜNCELLEMELER!   <:tridentcoin:1017074624384745573> 
+
+_Oyuncular, köylü takas noktasında kendi pazarlarını kurabilecek ve gerçek para** (TC) **karşılığı satış yapabilecekler. Bu sistemle birlikte daha gelişmiş oyuncu ekonomisi sizi bekliyor!_ <:ciftci:1135539219704598640> 
+
+Artık **/playerwarps menu** komutu ile diğer oyuncuların oluşturduğu warpları görüntüleyebilirsiniz.** /playerwarps** yazarak warp oluşturabilir, _ icon belirleyebilir, açıklama_ yazabilirsiniz. Bu sayede ne sattığınızı gösterebilir ve satılan ürünleri görüntüleyebilirsiniz. 🛒 
+
+_Diğer oyuncuların oyun içi bilgilerini sohbette üzerlerine gelerek görüntüleyebilirsiniz._ 🖱️
+
+--------------
+
+# ŞİFREMİ UNUTTUM ve DİSCORD ZORUNLUĞU HAKKINDA! 🔑 
+
+> Şifresini unutan oyuncular için şifremi unuttum kısmında bulunan hata çözülmüştür.
+
+> Kayıtlı olduğunuz maile şifre değişikliği gönderdiğinizde, spam ve benzeri klasörleri incelemeyi unutmayın.
+
+> Discord kapandıktan sonra discord eşleme kısmı site için biraz zorlaşmış bulunmaktaydı bunun için discord eşleme kısmı kaldırıldı. Artık başvurularınızı sorunsuz gerçekleştirebilirsiniz.
+
+mc.skyblock.tc | @everyone
+
+------------
+
+# MOBİL GİRİŞLER AKTİF EDİLDİ! (BEDROCK) <:bedrock:955131194364788816> 
+
+> Sunucunun mobil girişleri aktif hale getirildi.
+> **mc.skyblock.tc** ip adresi ile giriş sağlayabilirsiniz.
+> Detaylı bilgi ilerleyen süreçlerde **videolu ve yazılı** olacak şekilde paylaşılacaktır.
+> Sürüm olarak **SON SÜRÜMÜ** tercih etmelisiniz.
+
+_F tuşu ile atma problemi de giderildi._ <a:elmas:885836192585756702> 
+
+mc.skyblock.tc | @everyone
+
+----------------
+
+# ŞİFREMİ UNUTTUM ve DİSCORD ZORUNLUĞU HAKKINDA! 🔑 
+
+> Şifresini unutan oyuncular için şifremi unuttum kısmında bulunan hata çözülmüştür.
+
+> Kayıtlı olduğunuz maile şifre değişikliği gönderdiğinizde, spam ve benzeri klasörleri incelemeyi unutmayın.
+
+> Discord kapandıktan sonra discord eşleme kısmı site için biraz zorlaşmış bulunmaktaydı bunun için discord eşleme kısmı kaldırıldı. Artık başvurularınızı sorunsuz gerçekleştirebilirsiniz.
+
+mc.skyblock.tc | @everyone
+
+---------------
+
