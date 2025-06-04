@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name="gemini-with-knowledge",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Ahmet Hasdemir",
+    author_email="ahmet@hasdemir.me",
     description="A project that integrates knowledge management with the Gemini API.",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
